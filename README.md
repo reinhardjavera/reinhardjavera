@@ -11,6 +11,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 - :bulb: I'm interested in:
   - **Front-End Development** and creating engaging user experiences.
   - **UI/UX Design** principles to craft user-friendly and visually appealing interfaces.
+- 🎯 My goal is to become a **Front-End Developer** and contribute to open-source projects.
 - 💬 Talk to me about Web and Mobile Development, Front-End Technologies, UI/UX Design Best Practices.
 
 ## 🛠️ Tools & Technologies
