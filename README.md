@@ -6,12 +6,12 @@
 I'm a third-year undergraduate Informatics student at **Universitas Multimedia Nusantara**.
 
 - 🔭 I’m currently studying:
-	- **Mobile Application Development** using Kotlin and Android Studio
-	- **Machine Learning** using Python
+	- **Mobile Application Development** using Kotlin and Android Studio.
+	- **Machine Learning** using Python.
 - :bulb: I'm interested in:
-  - **Front-End Development** and creating engaging user experiences
-  - **UI/UX Design** principles to craft user-friendly and visually appealing interfaces
-- 💬 Talk to me about Web and Mobile Development, Front-End Technologies, UI/UX Design Best Practices
+  - **Front-End Development** and creating engaging user experiences.
+  - **UI/UX Design** principles to craft user-friendly and visually appealing interfaces.
+- 💬 Talk to me about Web and Mobile Development, Front-End Technologies, UI/UX Design Best Practices.
 
 ## 🛠️ Tools & Technologies
 
