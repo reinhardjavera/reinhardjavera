@@ -15,7 +15,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 
 ## 🛠️ Tools & Technologies
 
-![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,c,cs,js,react,php,laravel,java,python,kotlin,mysql,firebase,vscode,eclipse,unity,androidstudio,anaconda,gradle,git,&perline=19)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,c,cs,js,react,php,laravel,java,python,kotlin,mysql,firebase,vscode,eclipse,unity,androidstudio,anaconda,gradle,git,&perline=19)
 
     
 
