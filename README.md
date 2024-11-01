@@ -21,7 +21,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,kotlin,php,laravel,java,python,cs,mysql,firebase,vscode,androidstudio,figma,eclipse,unity,anaconda,gradle,git,&perline=19)
 
-## 📊 GitHub Stats:
+## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=reinhardjavera&theme=dark&hide_border=false" />
   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
