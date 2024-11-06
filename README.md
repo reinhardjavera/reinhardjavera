@@ -11,6 +11,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 - 🔭 I’m currently studying:
 	- **Mobile Application Development** using Kotlin and Android Studio.
 	- **Machine Learning** using Python.
+	- **Computer Graphic & Animation** using C# and Unity
 - :bulb: I'm interested in:
   - **Front-End Development** and creating engaging user experiences.
   - **UI/UX Design** principles to craft user-friendly and visually appealing interfaces.
