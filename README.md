@@ -18,7 +18,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 - 🎯 My goal is to become a **Front-End Developer** and contribute to open-source projects.
 - 💬 Talk to me about Web and Mobile Development, Front-End Technologies, UI/UX Design Best Practices.
 
-## 🛠️ Tools & Technologies I've ever used
+## 🛠️ Tools & Technologies
 
 ![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,kotlin,vscode,androidstudio,figma,git,&perline=19)
 
