@@ -20,7 +20,7 @@ I'm a third-year undergraduate Informatics student at **Universitas Multimedia N
 
 ## 🛠️ Tools & Technologies I've ever used
 
-![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,kotlin,php,laravel,java,python,firebase,vscode,androidstudio,figma,eclipse,anaconda,gradle,git,&perline=19)
+![](https://skillicons.dev/icons?i=html,css,bootstrap,tailwind,js,react,kotlin,vscode,androidstudio,figma,git,&perline=19)
 
 ## 📊 GitHub Stats
 <p align="center">
